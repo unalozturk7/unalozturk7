@@ -40,6 +40,6 @@ As a professional **translator**, I've spent years building bridges between cult
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=unalozturk7)]
+![](https://komarev.com/ghpvc/?username=unalozturk7)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
